@@ -7,7 +7,7 @@ package 二叉树;
  * 分析：
  **/
 public class TreeNode {
-    int val;
+    public int val;
     public TreeNode left;
     public TreeNode right;
     public TreeNode(int x){

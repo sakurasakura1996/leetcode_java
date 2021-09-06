@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e10c62b6-5b6c-46ed-9f20-16d0de3bade8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Art_of_Programming_in_Java/chapter1/ConcurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Art_of_Programming_in_Java/chapter1/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem698.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Understand_JVM/Chapter12/AtomicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Understand_JVM/Chapter12/VectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Understand_JVM/Chapter12/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Collection/UseOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Collection/UseOfMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Collection/UseOfSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Collection/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础知识/HashMap的使用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础知识/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识点杂记/IntList转换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode周赛/第240场周赛/下标对中的最大距离.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode周赛/第240场周赛/人口最多的年份.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode周赛/第240场周赛/子数组最小乘积的最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/problem06_从尾到头打印链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer03_数组中重复的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer09_用两个栈实现队列/cQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer10_斐波拉契数列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer10_青蛙跳台阶问题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer15_二进制中1的个数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer17_打印从1到最大的n位数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer21_调整数组顺序使奇数位于偶数前面/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer22_链表中倒数第k个节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer24_反转链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer25_合并两个排序的链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer27_二叉树的镜像/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer32_从上到下打印二叉树II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer39_数组中出现次数超过一半的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer54_二叉搜索树的第k大节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer55_二叉树的深度/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer57_II_和为s的连续正数序列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer57_和为s的两个数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer58_左旋转字符串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer58_翻转单词顺序/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer5_替换空格/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer62_圆圈中最后剩下的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer68_二叉搜索树的最近公共祖先/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer68_二叉树的最近公共祖先/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem165_比较版本号/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem1_两数之和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem2_两数相加/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem3_无重复字符的最长子串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem4_寻找两个正序数组的中位数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem560_和为K的子数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem89_格雷编码/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1011_在D天内送达包裹的能力/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1035_不相交的线/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1074_元素和为目标值的子矩阵数量/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1190_反转每对括号间的子串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1269_停在原地的方案数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem12_整数转罗马数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1310_子数组异或查询/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem137_只出现一次的数字II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem13_罗马数字转整数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1442_形成两个异或相等数组的三元组数目/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1482_制作m束花所需的最少天数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1486_数组异或操作/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1720_解码异或后的数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1723_完成所有工作的最短时间/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1734_解码异或后的排列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1738_找出第K大的异或坐标值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem179_最大数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem231_2的幂/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem264_丑数II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem279_完全平方数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem28_实现strStr/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem342_4的幂/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem363_矩形区域不超过K的最大数值和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem368_最大整除子集/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem377_组合总和IV/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem421_数组中两个数的最大异或值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem477_汉明距离总和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem494_目标和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem554_砖墙/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem633_平方数之和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem690_员工的重要性/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem692_前K个高频单词/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem740_删除并获得点数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem852_山脉数组的峰顶索引/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem872_叶子相似的树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem879_盈利计划/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem897_递增顺序搜索树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem91_解码方法/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem938_二叉搜索树的范围和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem993_二叉树的堂兄弟节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1_两数之和/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1_两数之和/problem1_两数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1_两数之和/problem1_两数之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/二叉树/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/TreeNode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qxobtgZZ36uw5pSUoE8zkhEefy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Art_of_Programming_in_Java.chapter1.DeadLockDemo" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Art_of_Programming_in_Java.chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.剑指offer58_翻转单词顺序.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.剑指offer58_翻转单词顺序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.剑指offer21_调整数组顺序使奇数位于偶数前面.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.剑指offer21_调整数组顺序使奇数位于偶数前面.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.problem279_完全平方数.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.problem279_完全平方数.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="按顺序刷题.problem165_比较版本号.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="按顺序刷题.problem165_比较版本号.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.DeadLockDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e10c62b6-5b6c-46ed-9f20-16d0de3bade8" name="Default Changelist" comment="" />
+      <created>1618030677094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618030677094</updated>
+      <workItem from="1618030680223" duration="295000" />
+      <workItem from="1618320251052" duration="42000" />
+      <workItem from="1618384822892" duration="23000" />
+      <workItem from="1618386193603" duration="4669000" />
+      <workItem from="1618409722461" duration="1582000" />
+      <workItem from="1618745232646" duration="4600000" />
+      <workItem from="1618813656160" duration="10189000" />
+      <workItem from="1618882742621" duration="8172000" />
+      <workItem from="1618975959795" duration="2086000" />
+      <workItem from="1619170476522" duration="9848000" />
+      <workItem from="1619247436689" duration="829000" />
+      <workItem from="1619255911631" duration="5126000" />
+      <workItem from="1619317757308" duration="1671000" />
+      <workItem from="1619341832658" duration="6818000" />
+      <workItem from="1619360300297" duration="375000" />
+      <workItem from="1619405369093" duration="359000" />
+      <workItem from="1619487403182" duration="2707000" />
+      <workItem from="1619576403970" duration="838000" />
+      <workItem from="1619748011556" duration="2137000" />
+      <workItem from="1619856454478" duration="2269000" />
+      <workItem from="1620175664080" duration="544000" />
+      <workItem from="1620298327722" duration="6796000" />
+      <workItem from="1620348602732" duration="16652000" />
+      <workItem from="1620445899922" duration="791000" />
+      <workItem from="1620456856881" duration="1477000" />
+      <workItem from="1620526968447" duration="4665000" />
+      <workItem from="1620543489643" duration="1200000" />
+      <workItem from="1620609286302" duration="5894000" />
+      <workItem from="1620649856103" duration="5246000" />
+      <workItem from="1620696325216" duration="855000" />
+      <workItem from="1620783094455" duration="1045000" />
+      <workItem from="1620825119646" duration="2102000" />
+      <workItem from="1620888159091" duration="1386000" />
+      <workItem from="1620956170007" duration="1041000" />
+      <workItem from="1620976348361" duration="2389000" />
+      <workItem from="1621044641797" duration="2455000" />
+      <workItem from="1621146155819" duration="1091000" />
+      <workItem from="1621148239359" duration="3342000" />
+      <workItem from="1621217168796" duration="2199000" />
+      <workItem from="1621222623811" duration="3000" />
+      <workItem from="1621302379964" duration="996000" />
+      <workItem from="1621320185596" duration="143000" />
+      <workItem from="1621478012963" duration="3214000" />
+      <workItem from="1621487007040" duration="3000" />
+      <workItem from="1621562418422" duration="4172000" />
+      <workItem from="1621588214536" duration="2447000" />
+      <workItem from="1621596582432" duration="2704000" />
+      <workItem from="1621928555202" duration="80000" />
+      <workItem from="1621998244048" duration="2394000" />
+      <workItem from="1622034817977" duration="1812000" />
+      <workItem from="1622171279658" duration="2337000" />
+      <workItem from="1622184542095" duration="3278000" />
+      <workItem from="1622274700438" duration="5148000" />
+      <workItem from="1622347068834" duration="794000" />
+      <workItem from="1622426987282" duration="777000" />
+      <workItem from="1622893194120" duration="44000" />
+      <workItem from="1623122987611" duration="935000" />
+      <workItem from="1623206975151" duration="1709000" />
+      <workItem from="1623399245653" duration="868000" />
+      <workItem from="1623424962863" duration="547000" />
+      <workItem from="1623426342818" duration="801000" />
+      <workItem from="1623640320466" duration="1045000" />
+      <workItem from="1623721463906" duration="1626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem1_两数之和/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem3_无重复字符的最长子串/Solution.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/每日一题/problem363_矩形区域不超过K的最大数值和/Solution.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/每日一题/problem368_最大整除子集/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/problem06_从尾到头打印链表/Solution.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/problem06_从尾到头打印链表/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/剑指offer57_II_和为s的连续正数序列/Solution.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
