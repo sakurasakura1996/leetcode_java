@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10c62b6-5b6c-46ed-9f20-16d0de3bade8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer05_替换空格/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer06_从尾到头打印链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer09_用两个栈实现队列/CQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer24_反转链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer30_包含main函数的栈/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer35_复杂链表的复制/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer58II_左旋转字符串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1221_分割平衡字符串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance/Byte1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer3_数组中重复的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer53_I_在排序数组中查找数字I/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/差分数组/problem1094_拼车/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/差分数组/problem1109_航班预订统计/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/差分数组/problem1674_使数组互补的最少操作次数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/差分数组/problem1893_检查是否区域内所有整数都被覆盖/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/差分数组/差分数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/差分数组/计算并发任务数/Byte1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/剑指offer/剑指offer58_翻转单词顺序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/剑指offer/剑指offer58_翻转单词顺序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/剑指offer/剑指offer62_圆圈中最后剩下的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/剑指offer/剑指offer62_圆圈中最后剩下的数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/剑指offer62_圆圈中最后剩下的数字/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/剑指offer62_圆圈中最后剩下的数字/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/JianZhiOffer/剑指offer35_复杂链表的复制/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/JianZhiOffer/剑指offer35_复杂链表的复制/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +54,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My-RPC-Framework" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.剑指offer58_翻转单词顺序.Solution" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="差分数组" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Byte1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteDance.Byte1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer.剑指offer58_翻转单词顺序.*" />
+          <option name="PATTERN" value="ByteDance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.problem279_完全平方数.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.problem279_完全平方数.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JianZhiOffer.剑指offer24_反转链表.Solution" />
       <module name="leetcode" />
@@ -112,43 +103,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="差分数组.problem1674_使数组互补的最少操作次数.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="差分数组.problem1674_使数组互补的最少操作次数.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SymmetricTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteDance.SymmetricTree" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ByteDance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/MyCode/IDEAProjects/leetcode_java" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Byte1" />
+        <item itemvalue="Application.SymmetricTree" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Gradle.D:/MyCode/IDEAProjects/leetcode_java" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,10 @@
       <workItem from="1631270878602" duration="841000" />
       <workItem from="1631273627158" duration="1226000" />
       <workItem from="1631327686937" duration="1000" />
-      <workItem from="1631329883216" duration="8295000" />
+      <workItem from="1631329883216" duration="9851000" />
+      <workItem from="1631365676375" duration="727000" />
+      <workItem from="1631410643796" duration="17360000" />
+      <workItem from="1631493185702" duration="4242000" />
     </task>
     <servers />
   </component>
@@ -309,6 +312,11 @@
           <url>file://$PROJECT_DIR$/src/JianZhiOffer/剑指offer35_复杂链表的复制/Solution.java</url>
           <line>102</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ByteDance/Byte1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
