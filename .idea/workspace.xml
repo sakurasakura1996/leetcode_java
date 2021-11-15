@@ -1,19 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e10c62b6-5b6c-46ed-9f20-16d0de3bade8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ByteDance/Byte1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ByteDance/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer3_数组中重复的数字/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer53_I_在排序数组中查找数字I/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/差分数组/problem1094_拼车/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/差分数组/problem1109_航班预订统计/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/差分数组/problem1674_使数组互补的最少操作次数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/差分数组/problem1893_检查是否区域内所有整数都被覆盖/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/差分数组/差分数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/差分数组/计算并发任务数/Byte1.java" afterDir="false" />
+    <list default="true" id="e10c62b6-5b6c-46ed-9f20-16d0de3bade8" name="Default Changelist" comment="update 差分数组的应用和小结">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer10II_青蛙跳台阶问题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer10I_斐波拉契数列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer11_旋转数组的最小数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer18_删除链表的节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer26_树的子结构/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer27_二叉树的镜像/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer28_对称的二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer32III_从上到下打印二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer32II_从上到下打印二叉树II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer32I_从上到下打印二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer42_连续子数组的最大和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer47_礼物的最大价值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer4_二维数组中的查找/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer50_第一个只出现一次的字符/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer53/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JianZhiOffer/剑指offer63_股票的最大利润/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java核心技术/Chapter9/HashMapLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java核心技术/Chapter9/QueueLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode动态规划学习计划/problem1137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode动态规划学习计划/problem509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode动态规划学习计划/problem70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode动态规划学习计划/problem746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/meituan/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/meituan/Solution1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/meituan/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/meituan/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/meituan/Solution3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/meituan/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wangyi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wangyi/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer数据结构入门/Problem217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer数据结构入门/Problem53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/回溯/problem401_二进制手表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem1162_地图分析/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem116_填充每个节点的下一个右侧节点指针/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem167_两数之和II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem189_旋转数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem19_删除链表的倒数第N个结点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem206_反转链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem21_合并两个有序链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem278_第一个错误的版本/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem283_移动零/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem344_反转字符串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem35_搜索插入位置/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem3_无重复字符的最长字串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem46_全排列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem542_01矩阵/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem557_反转字符串中的单词III/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem567_字符串的排列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem617_合并二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem695_岛屿的最大面积/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem704_二分查找/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem733_图像渲染/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem77_组合/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem876_链表的中间借点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/按顺序刷题/problem977_有序数组的平方/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem1143_最长公共子序列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem162_寻找峰值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem230_二叉搜索树中第K小的元素/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem282_给表达式添加运算符/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem300_最长递增子序列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem319_灯泡开关/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem326_3的幂/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem38_外观数列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem412_Fizz_Buzz/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem430_扁平化多级双向链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem437_路径总和III/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem447_回旋镖的数量/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem583_两个字符串的删除操作/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem58_最后一个单词的长度/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem650_只有两个键的键盘/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem673_最长递增子序列的个数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/problem725_分隔链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/剑指offerII069_山峰数组的顶部/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/震坤行/Problem1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/JianZhiOffer/剑指offer35_复杂链表的复制/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/JianZhiOffer/剑指offer35_复杂链表的复制/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +122,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My-RPC-Framework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/leetcode动态规划学习计划/problem.java" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/leetcode动态规划学习计划/problem.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="差分数组" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Byte1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ByteDance.Byte1" />
+  <component name="RunManager" selected="Application.Solution (3)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="按顺序刷题.problem733_图像渲染.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ByteDance.*" />
+          <option name="PATTERN" value="按顺序刷题.problem733_图像渲染.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,11 +147,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JianZhiOffer.剑指offer35_复杂链表的复制.Solution" />
+      <option name="MAIN_CLASS_NAME" value="按顺序刷题.problem116_填充每个节点的下一个右侧节点指针.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JianZhiOffer.剑指offer35_复杂链表的复制.*" />
+          <option name="PATTERN" value="按顺序刷题.problem116_填充每个节点的下一个右侧节点指针.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +159,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JianZhiOffer.剑指offer24_反转链表.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="按顺序刷题.problem77_组合.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JianZhiOffer.剑指offer24_反转链表.*" />
+          <option name="PATTERN" value="按顺序刷题.problem77_组合.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="按顺序刷题.problem557_反转字符串中的单词III.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="按顺序刷题.problem557_反转字符串中的单词III.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,24 +186,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="差分数组.problem1674_使数组互补的最少操作次数.Solution" />
+      <option name="MAIN_CLASS_NAME" value="按顺序刷题.problem567_字符串的排列.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="差分数组.problem1674_使数组互补的最少操作次数.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SymmetricTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ByteDance.SymmetricTree" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ByteDance.*" />
+          <option name="PATTERN" value="按顺序刷题.problem567_字符串的排列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Byte1" />
-        <item itemvalue="Application.SymmetricTree" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -233,8 +302,52 @@
       <workItem from="1631329883216" duration="9851000" />
       <workItem from="1631365676375" duration="727000" />
       <workItem from="1631410643796" duration="17360000" />
-      <workItem from="1631493185702" duration="4242000" />
+      <workItem from="1631493185702" duration="15911000" />
+      <workItem from="1631581868828" duration="7822000" />
+      <workItem from="1631670093955" duration="2923000" />
+      <workItem from="1631676028775" duration="1705000" />
+      <workItem from="1631686073006" duration="6209000" />
+      <workItem from="1631759133922" duration="10511000" />
+      <workItem from="1631797329528" duration="101000" />
+      <workItem from="1631878317145" duration="5726000" />
+      <workItem from="1631934542211" duration="5860000" />
+      <workItem from="1631967351385" duration="2418000" />
+      <workItem from="1632017801329" duration="7119000" />
+      <workItem from="1632107958584" duration="5968000" />
+      <workItem from="1632138840169" duration="1172000" />
+      <workItem from="1632207053895" duration="827000" />
+      <workItem from="1632315190508" duration="956000" />
+      <workItem from="1632362386057" duration="1565000" />
+      <workItem from="1632483375767" duration="4355000" />
+      <workItem from="1632535138168" duration="12984000" />
+      <workItem from="1632814782513" duration="3399000" />
+      <workItem from="1634088620023" duration="6694000" />
+      <workItem from="1634174798158" duration="3942000" />
+      <workItem from="1634278730147" duration="2729000" />
+      <workItem from="1634358866143" duration="1592000" />
+      <workItem from="1634439784351" duration="2300000" />
+      <workItem from="1634453286858" duration="1200000" />
+      <workItem from="1634788508004" duration="7000" />
+      <workItem from="1635060398730" duration="394000" />
+      <workItem from="1636374486588" duration="1628000" />
+      <workItem from="1636420891209" duration="9459000" />
+      <workItem from="1636507572748" duration="8257000" />
+      <workItem from="1636593073502" duration="2231000" />
+      <workItem from="1636628670605" duration="2847000" />
+      <workItem from="1636677768839" duration="8051000" />
+      <workItem from="1636716753843" duration="2712000" />
+      <workItem from="1636766608631" duration="9324000" />
+      <workItem from="1636852639889" duration="4750000" />
+      <workItem from="1636939343936" duration="18737000" />
     </task>
+    <task id="LOCAL-00001" summary="update 差分数组的应用和小结">
+      <created>1631497918785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631497918785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +367,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update 差分数组的应用和小结" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 差分数组的应用和小结" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -317,6 +432,81 @@
           <url>file://$PROJECT_DIR$/src/ByteDance/Byte1.java</url>
           <line>15</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/每日一题/problem162_寻找峰值/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/震坤行/Problem1.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wangyi/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JianZhiOffer/剑指offer26_树的子结构/Solution.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/每日一题/problem650_只有两个键的键盘/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/每日一题/problem673_最长递增子序列的个数/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer数据结构入门/Problem53.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/每日一题/problem38_外观数列/Solution.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem977_有序数组的平方/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem283_移动零/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem344_反转字符串/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem557_反转字符串中的单词III/Solution.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem567_字符串的排列/Solution.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem733_图像渲染/Solution.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/按顺序刷题/problem77_组合/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
