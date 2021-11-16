@@ -1,7 +1,6 @@
 package 按顺序刷题.problem46_全排列;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Solution {
