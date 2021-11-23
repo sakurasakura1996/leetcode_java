@@ -29,4 +29,28 @@ public class Solution {
             tmp.remove(tmp.size()-1);
         }
     }
+
+    public List<List<Integer>> permute2(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        int[] visited = new int[nums.length];
+        dfs(ans, nums, new ArrayList<Integer>(), visited);
+        return ans;
+    }
+
+    public void dfs(List<List<Integer>> ans, int[] nums, ArrayList<Integer> tmp, int[] visited) {
+        if (tmp.size() == nums.length) {
+            ans.add(new ArrayList<>(tmp));
+            return;
+        }
+        for (int i = 0; i < nums.length; i++) {
+            if (visited[i] == 1) {
+                continue;
+            }
+            visited[i] = 1;
+            tmp.add(nums[i]);
+            dfs(ans, nums, tmp, visited);
+            visited[i] = 0;
+            tmp.remove(tmp.size()-1);
+        }
+    }
 }
