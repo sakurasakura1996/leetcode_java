@@ -1,4 +1,4 @@
-package java基础知识;
+package java基础知识.HashMap详解;
 
 import java.util.HashMap;
 import java.util.Iterator;
